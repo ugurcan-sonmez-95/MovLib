@@ -5,10 +5,10 @@
 
 void display_menu() {
     std::cout << "\nWelcome to MovLib!" << "\n\n";
-    std::cout << "Enter 'P' for printing your movie list." << '\n';
-    std::cout << "Enter 'A' for adding a movie to your movie list." << '\n';
-    std::cout << "Enter 'R' for removing a movie from your movie list." << '\n';
-    std::cout << "Enter 'I' to increase the watch count of a movie in your movie list." << '\n';
+    std::cout << "Enter 'P' to see your movies in your list." << '\n';
+    std::cout << "Enter 'A' for adding a movie to your list." << '\n';
+    std::cout << "Enter 'R' for removing a movie from your list." << '\n';
+    std::cout << "Enter 'I' to increase the watch count of a movie in your list." << '\n';
     std::cout << "Enter 'Q' to quit." << '\n';
 }
 
